@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a 2nd year student pursuing Computer Science and Engineering.<br>👯 I’m would love to collaborate with any data analyst or software dev looking for ideation and execution of a new project.<br>🌱 I’m currently learning technologies like python and numpy with a godly interest in quant computing and trading.<br>💬 Ask me about my day, because honestly nobody else does 😔😭<br>⚡ Fun fact i was the worst at sudoku so i used backtracking to finish it.
+🔭 I’m currently a 2nd year student pursuing Computer Science and Engineering.<br>👯 I’m would love to collaborate with any data analyst or software dev looking for ideation and execution of a new project.<br>🌱 I’m currently learning technologies like python and numpy with a godly interest in quant computing and trading.<br>⚡ Fun fact i was the worst at sudoku so i used backtracking to finish it.
 
 
 ## 🌐 Socials:
